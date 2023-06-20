@@ -1,0 +1,11 @@
+C:\MSSA\Week 4\Assignment\WinForm_Phonebook\bin\Debug\WinForm_Phonebook.exe.config
+C:\MSSA\Week 4\Assignment\WinForm_Phonebook\bin\Debug\WinForm_Phonebook.exe
+C:\MSSA\Week 4\Assignment\WinForm_Phonebook\bin\Debug\WinForm_Phonebook.pdb
+C:\MSSA\Week 4\Assignment\WinForm_Phonebook\obj\Debug\WinForm_Phonebook.csproj.AssemblyReference.cache
+C:\MSSA\Week 4\Assignment\WinForm_Phonebook\obj\Debug\WinForm_Phonebook.csproj.SuggestedBindingRedirects.cache
+C:\MSSA\Week 4\Assignment\WinForm_Phonebook\obj\Debug\WinForm_Phonebook.Form1.resources
+C:\MSSA\Week 4\Assignment\WinForm_Phonebook\obj\Debug\WinForm_Phonebook.Properties.Resources.resources
+C:\MSSA\Week 4\Assignment\WinForm_Phonebook\obj\Debug\WinForm_Phonebook.csproj.GenerateResource.cache
+C:\MSSA\Week 4\Assignment\WinForm_Phonebook\obj\Debug\WinForm_Phonebook.csproj.CoreCompileInputs.cache
+C:\MSSA\Week 4\Assignment\WinForm_Phonebook\obj\Debug\WinForm_Phonebook.exe
+C:\MSSA\Week 4\Assignment\WinForm_Phonebook\obj\Debug\WinForm_Phonebook.pdb
